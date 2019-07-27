@@ -8,6 +8,12 @@ With a [correctly configured](https://golang.org/doc/install#testing) Go toolcha
 go get -u github.com/hebertbanes/get-status
 ```
 
+## Roadmap
+*Config file
+*Support different methods to requested services(post, get...)
+*i18n support
+*Add timing to requested services responses
+
 ## License
 MIT License. See the LICENSE file for details.
 
