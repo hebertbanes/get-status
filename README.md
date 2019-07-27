@@ -9,10 +9,10 @@ go get -u github.com/hebertbanes/get-status
 ```
 
 ## Roadmap
-*Config file
-*Support different methods to requested services(post, get...)
-*i18n support
-*Add timing to requested services responses
+- [ ] Config file
+- [ ] Support different methods to requested services(post, get...)
+- [ ] i18n support
+- [ ] Add timing to requested services responses
 
 ## License
 MIT License. See the LICENSE file for details.
